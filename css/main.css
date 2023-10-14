@@ -1,8 +1,9 @@
 body {
-    font-family: 'Roboto', Helvetica, sans-serif;
-    background-color: #f0f0f0; /* Adjust the background color as needed for sufficient contrast. */
-    margin: 0;
-    padding: 0;
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-color: #332A5E;
+  background-color: #C2B6FF;
+  margin: 0;
+  padding: 0;
 }
 
 h1,
@@ -11,8 +12,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
-    color: #000; 
+  font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+}
 
 .container {
   max-width: 1080px;
